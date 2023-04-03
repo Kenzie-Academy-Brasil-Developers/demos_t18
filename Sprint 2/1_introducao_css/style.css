@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #f9dcb2;
+}
+
+section {
+  background-color: white;
+}
+
+h1 {
+  color: rgb(31, 206, 31);
+  font-size: 24px;
+  text-align: center;
+}
+
+h2 {
+  /* color: rgba(117, 74, 85, 0.5); */
+  color: rgb(117, 74, 85);
+  font-size: 18px;
+}
+
+p {
+  line-height: 20px;
+}
+
+.description {
+  font-size: 14px;
+}
+
+.price {
+  color: #b22222;
+}
+
+.discount {
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#favorite {
+  color: #9f8703;
+}
