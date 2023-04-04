@@ -1,0 +1,37 @@
+/* .primeira,
+.segunda {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 2px solid;
+} */
+
+.primeira h1 {
+  font-style: italic;
+}
+
+div {
+  margin: 20px;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.primeira {
+  background-color: red;
+  font-size: 30px;
+}
+
+/* #secao-um {
+  font-size: 70px;
+} */
+
+.segunda {
+  background-color: blue;
+}
+
+.linha {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  border: 2px solid;
+}
