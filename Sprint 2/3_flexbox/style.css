@@ -1,0 +1,42 @@
+section {
+  display: flex;
+
+  background-color: rgb(117, 237, 117);
+  height: 100vh;
+
+  /* Utilização do wrap com gap */
+  /* flex-wrap: wrap;
+  gap: 30px; */
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  border: 3px solid;
+}
+
+/* Manipulando com psseudoclasse */
+/* div:nth-child(1) {
+  margin-right: 3px;
+}
+
+div:nth-child(2) {
+  margin-right: 4px;
+}
+
+div:nth-child(3) {
+  margin-right: 5px;
+} */
+
+/* Manipulando com classe */
+/* .primeira {
+  margin-right: 3px;
+}
+
+.segunda {
+  margin-right: 4px;
+}
+
+.terceira {
+  margin-right: 5px;
+} */
