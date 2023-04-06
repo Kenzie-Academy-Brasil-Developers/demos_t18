@@ -1,0 +1,119 @@
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+body {
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 700px;
+  height: 500px;
+  border: 2px solid;
+  border-radius: 20px;
+
+  overflow: hidden;
+
+  display: flex;
+}
+
+/* Left */
+.container .left {
+  width: 50%;
+  height: 100%;
+  padding: 30px;
+  border-radius: 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: rgb(73, 73, 221);
+  color: #eee;
+}
+
+.container .left form {
+  display: flex;
+  flex-direction: column;
+}
+
+.container .left form .input-contact {
+  border: none;
+  border-bottom: 2px solid;
+  border-color: rgba(255, 255, 255, 0.784);
+  background-color: transparent;
+  margin-bottom: 15px;
+}
+
+.container .left form .input-contact::placeholder,
+.container .left form textarea::placeholder {
+  color: rgba(255, 255, 255, 0.784);
+}
+
+.submit-button {
+  width: 120px;
+  height: 47px;
+  border: none;
+  border-radius: 8px;
+
+  background-color: #d62196;
+  color: rgba(255, 255, 255, 0.784);
+}
+
+.submit-button:hover {
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
+  /* background: green;
+  background-image: url("../img/rubber-duck.jpg");
+  background-position: center; */
+}
+
+/* Right */
+
+.container .right {
+  width: 50%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .right .perfil-image {
+  width: 200px;
+  border-radius: 10px;
+  image-rendering: pixelated;
+  margin-bottom: 10px;
+}
+
+.link-container {
+  width: 120px;
+  margin: 10px 0px;
+
+  display: flex;
+  align-items: center;
+}
+
+.link-container .icon {
+  width: 24px;
+  margin-right: 10px;
+}
+
+.link-container a {
+  text-decoration: none;
+  color: #111;
+}
+
+.link-container a:hover {
+  color: rgb(73, 73, 221);
+}

@@ -1,0 +1,15 @@
+Desafio:
+- Template utilizado: https://preview.colorlib.com/theme/bootstrap/contact-form-04/
+- Site com diversos templates: https://colorlib.com/wp/free-html5-contact-form-templates/
+
+Imagens Gratuítas:
+- Unsplash: https://unsplash.com/pt-br
+- Pixabay: https://pixabay.com/pt/
+- Lorem Picsum: https://picsum.photos/
+
+Reset CSS:
+- https://meyerweb.com/eric/tools/css/reset/
+
+Icones:
+- Google Fonts Icons: https://fonts.google.com/icons
+
