@@ -26,7 +26,7 @@ const myString = "Olá Kenzie!";
 
 /*
   Escreva uma função que recebe uma string e
-  uma letra, e procure a letra na string e a torna
+  uma letra, procure a letra na string e a torna
   maiuscula se encontrada, retornando a string modificada.
 
   Passos lógicos:
