@@ -20,7 +20,7 @@ const myString = "Olá Kenzie!";
 //   console.log(myString[i]);
 // }
 
-// for (let i = myString.length; i >= 0; i--) {
+// for (let i = myString.length - 1; i >= 0; i--) {
 //   console.log(myString[i]);
 // }
 
