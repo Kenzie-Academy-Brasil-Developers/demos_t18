@@ -1,27 +1,27 @@
-// const myName = "Olá Kenzie!";
+// const myString = "Olá Kenzie!";
 
-// console.log(myName[0]);
-// console.log(myName[1]);
-// console.log(myName[2]);
-// console.log(myName[3]);
-// console.log(myName[4]);
-// console.log(myName[5]);
-// console.log(myName[6]);
-// console.log(myName[7]);
-// console.log(myName[8]);
-// console.log(myName[9]);
-// console.log(myName[10]);
+// console.log(myString[0]);
+// console.log(myString[1]);
+// console.log(myString[2]);
+// console.log(myString[3]);
+// console.log(myString[4]);
+// console.log(myString[5]);
+// console.log(myString[6]);
+// console.log(myString[7]);
+// console.log(myString[8]);
+// console.log(myString[9]);
+// console.log(myString[10]);
 
-const myName = "Olá Kenzie!";
-// console.log(myName.length);
+const myString = "Olá Kenzie!";
+// console.log(myString.length);
 // 11
 
-// for (let i = 0; i < myName.length; i++) {
-//   console.log(myName[i]);
+// for (let i = 0; i < myString.length; i++) {
+//   console.log(myString[i]);
 // }
 
-// for (let i = myName.length; i >= 0; i--) {
-//   console.log(myName[i]);
+// for (let i = myString.length; i >= 0; i--) {
+//   console.log(myString[i]);
 // }
 
 /*
