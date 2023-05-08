@@ -1,0 +1,17 @@
+p{
+    height: 18px;
+    overflow: hidden;
+    opacity: 1;
+    transition: 2s;
+}
+
+.hidden{
+    height: 0px;
+    opacity: 0;
+}
+
+a{
+    display:block;
+    padding-top: 20px;
+}
+
