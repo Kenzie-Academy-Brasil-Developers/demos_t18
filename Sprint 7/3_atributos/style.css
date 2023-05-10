@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+
+.ancoraAmarela{
+    color: yellow;
+}
+
+.ancoraAzul{
+    color: blue;
+}
+
+.ancoraVerde{
+    color: green;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
